@@ -8,10 +8,11 @@ This is the github org for open source Neolatino projects
 
 ## Projects
 
-- 📖 [Dictionario Neolatino](https://github.com/neolatino/dictionario)
+- 📖 [Dictionario Neolatino (Maintenance Only)](https://github.com/neolatino/dictionario)
 
-A simple dictionary for looking up neolatino words from many languages
+A simple dictionary for looking up neolatino words from many languages.
 
 - ⚙️ [Neolatino API](https://github.com/neolatino/neolatino-api)
 
-A work in progress general API to simplify the developement of tools/applications using dictionary or conjugation data
+A work in progress general API to simplify the developement of tools/applications using dictionary or conjugation data.
+This is the ground work for building a much better dictionary than the current one, including features like semantic search and verb conjugation.
