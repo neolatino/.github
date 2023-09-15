@@ -12,6 +12,6 @@ This is the github org for opensource Neolatino project
 
 A simple dictionary for looking up neolatino words from many languages
 
-- ⚙️ [Neolatino API](https://github.com/neolatino/dictionario)
+- ⚙️ [Neolatino API](https://github.com/neolatino/neolatino-api)
 
 A work in progress general API to simplify the developement of tools/applications using dictionary or conjugation data
